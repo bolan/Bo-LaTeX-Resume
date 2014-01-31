@@ -13,8 +13,8 @@ LaTeX, or pdflatex
 Download and Compile
 ====================
 
-git clone https://github.com/bolan/Bo-LaTeX-Resume
+$ git clone https://github.com/bolan/Bo-LaTeX-Resume
 
-cd Bo-LaTeX-Resume
+$ cd Bo-LaTeX-Resume
 
-pdflatex bo_resume-it.tex
+$ pdflatex bo_resume-it.tex
